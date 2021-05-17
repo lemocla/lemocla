@@ -16,17 +16,17 @@ This experience was the catalyst that would start my coding journey, I learnt so
 
 <img height="32" widht="32" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" /> <img height="32" widht="32" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" /> <img height="32" widht="32" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" /> <img height="32" widht="32" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" /> <img height="32" widht="32" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
-Currently learning 
+**Currently learning** 
 <img height="32" widht="32" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" />
 <img height="32" widht="32" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img height="32" widht="32" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 
-Next chapter - coming soon 
+**Coming soon** 
 <img height="32" widht="32" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
 <img height="32" widht="32" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" />
 <img height="32" widht="32" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
 
-The language 
+**Next chapter - after full stack diploma** 
 <img height="32" widht="32" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" />
 
 ## Technology used
