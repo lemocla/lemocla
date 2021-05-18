@@ -38,8 +38,12 @@ This experience was the catalyst that would start my coding journey, I learnt so
 
  
 
-## Contact me 
+## Contacts
 
-<div align="center" width="100%"><a href="https://www.linkedin.com/in/claire-lemonnier-9a7869154/" ><img height="32" widht="32" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a></div>
+<div>
+<a href="https://www.linkedin.com/in/claire-lemonnier-9a7869154/"><img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a> <a href="mailto:lemocla@icloud.com"><img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
+ </div>
 
+## Credits
 
+Thank you [Terence Eden & co](https://github.com/edent/SuperTinyIcons) and [devicon](https://github.com/devicons) for the icons and [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats
