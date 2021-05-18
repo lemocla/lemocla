@@ -17,6 +17,8 @@ This experience was the catalyst that would start my coding journey, I learnt so
 
 ### **In my stack**
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 <img height="45" width="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />  <img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" />  <img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" />  <img height="45" widht="45" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" />  <img height="45" widht="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />   <img height="50" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /> <img height="50" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" /> <img height="45" widht="45" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" /> 
 
 ### **Learning in progress**         
