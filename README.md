@@ -1,4 +1,4 @@
-![banner](8B3526A8-8AB1-40E0-8B36-D31598C6233D. PNG)
+![banner](images/8B3526A8-8AB1-40E0-8B36-D31598C6233D. PNG)
 
 ## A little bit about me 
 
@@ -14,8 +14,6 @@ This experience was the catalyst that would start my coding journey, I learnt so
   + Software development would not only be a career to aim for, but also a passion to follow. 
 
 ## Stack 
-
-    
 
 ### **In my stack**
 
@@ -36,11 +34,10 @@ This experience was the catalyst that would start my coding journey, I learnt so
 
 ## GitHub statistics
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemocla&show_icons=true&theme=tokyonight&hide=prs,issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemocla&layout=compact&theme=tokyonight&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
+
  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemocla&show_icons=true&theme=tokyonight&hide=prs,issues) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemocla&layout=compact&theme=tokyonight&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
-
- -------------------- | --------------------
 
 ## Contact me 
 
