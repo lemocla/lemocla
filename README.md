@@ -13,8 +13,9 @@ This experience was the catalyst that would start my coding journey, I learnt so
   - I was only scratching the surface and, 
   - Software development would not only be a career to aim for, but also a passion to follow. 
 
+<img align="right" alt="test" src="images/undraw_remotely_2j6y.png" width="425" height="425" />
+
 ## Stack 
-<img align="right" alt="test" src="images/undraw_remotely_2j6y.png" width="400" height="400" />
 
 - ### **In my stack**
 
@@ -25,7 +26,6 @@ This experience was the catalyst that would start my coding journey, I learnt so
 
   <img height="50" widht="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" />  <img height="50" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />  <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" /> <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
 
-
 ## Objectives
 
    - My objectives are also to learn React and Node.js       
@@ -35,8 +35,6 @@ This experience was the catalyst that would start my coding journey, I learnt so
 ## GitHub statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemocla&show_icons=true&theme=tokyonight&hide=prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemocla&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
- 
 
 ## Contacts
 
