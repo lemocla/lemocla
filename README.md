@@ -6,7 +6,7 @@
 
 I am Claire, from London and a full stack software developer in the making. 
 
-A couple of years ago, before starting the full stack course with code institute, I developed an integrated booking app using Zoho Creator for a company offering property services - with zero coding experience.  
+A couple of years ago, before starting the full stack course with [code institute](https://codeinstitute.net/), I developed an integrated booking app using Zoho Creator for a company offering property services - with zero coding experience.  
 
 This experience was the catalyst that would start my coding journey, I learnt so much in the process but I discovered two things:    
 
@@ -46,4 +46,4 @@ This experience was the catalyst that would start my coding journey, I learnt so
 
 ## Credits
 
-Thank you [Terence Eden & co](https://github.com/edent/SuperTinyIcons) and [devicon](https://github.com/devicons) for the icons and [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats
+Thank you [Terence Eden & co](https://github.com/edent/SuperTinyIcons) and [devicon](https://github.com/devicons) for the icons, [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats and [Henrique Peroni](https://github.com/Henriqueperoni) for inspiring me to build my GitHub Profile.
