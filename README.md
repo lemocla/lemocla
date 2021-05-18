@@ -1,4 +1,4 @@
-![banner](images/8B3526A8-8AB1-40E0-8B36-D31598C6233D. PNG)
+![banner](images/8B3526A8-8AB1-40E0-8B36-D31598C6233D.PNG)
 
 ## A little bit about me 
 
