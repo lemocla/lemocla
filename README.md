@@ -6,7 +6,7 @@
 
 I am Claire, from London and a full stack software developer in the making. 
 
-A couple of years ago, before starting the full stack course with [code institute](https://codeinstitute.net/), I developed an integrated booking app using Zoho Creator for a company offering property services - with zero coding experience.  
+A couple of years ago, before starting the full stack course with [Code Institute](https://codeinstitute.net/), I developed an integrated booking app using Zoho Creator for a company offering property services - with zero coding experience.  
 
 This experience was the catalyst that would start my coding journey, I learnt so much in the process but I discovered two things:    
 
